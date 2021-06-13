@@ -1,6 +1,6 @@
 pool:
-  vmImage: 'ubuntu-20.04'
-
+  name: own
+  
 variables:
   buildConfiguration: 'Release'
   dotnetSdkVersion: '5.0.203'
